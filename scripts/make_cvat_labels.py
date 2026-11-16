@@ -28,12 +28,13 @@ def main() -> None:
             for a in tax.attrs.values():
                 attrs.append({
                     "name": a["name"],
-                    "mutable": False,
+                    "mutable": a.get("type") == "checkbox",
                     "input_type": a["type"],
                     "default_value": str(a.get("default", "")),
-                    "values": [str(v) for v in a.get("values", [])] if a["type"] == "select" else (["false"] if a["type"] == "checkbox" else []),
+                    "values": [str(v) for v in a.get("values", [])] if a["type"] == "select" else (["false", "true"] if a["type"] == "checkbox" else []),
                 })
         labels.append({"name": name, "color": "#808080" if name == tax.ignore else COLORS[i % len(COLORS)],
+                       "type": "rectangle",
                        "attributes": attrs})
     text = json.dumps(labels, ensure_ascii=False, indent=2)
     out = ROOT / "cvat" / ("labels_final.json" if args.final else "labels_generated.json")
