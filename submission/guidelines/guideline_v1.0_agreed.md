@@ -43,8 +43,10 @@ Gồm 6 lớp gốc của bài lab (`car`, `truck`, `van`, `motorcycle`, `person
 | `three_wheeler` | Phương tiện ba bánh có động cơ dùng để chở người hoặc chở hàng hóa. | Xe tuk-tuk chở khách (`img_004`, `img_016`), xe lam, auto rickshaw, xe ba gác máy chở hàng (`img_035`). | Xe máy 2 bánh kéo xe cải tiến phía sau, xe xích lô đạp chân (`img_039`). |
 | `person` | Con người còn sống ở mọi tư thế trong không gian giao thông đường phố. | Người đi bộ, người lái và người ngồi sau xe máy (`img_001`), người đạp xe/xích lô, tài xế trên xe hở, người đứng/ngồi trên vỉa hè. | Tượng người bằng đồng/đá (`img_011`, `img_017`), ma-nơ-canh (`img_033`), poster/biển quảng cáo in hình người (`img_018`), hình người phản chiếu qua gương (`img_020`). |
 | `ignore_region` | Vùng không gian chứa cụm vật thể quá nhỏ (< 20px ở hậu cảnh), đám đông dày đặc hoặc cụm xe mờ không thể phân tách biên chuẩn xác. | Đám đông dày đặc ở hậu cảnh quảng trường (`img_011`), hàng loạt xe đỗ mờ ảo ở đường chân trời (`img_003`). | Bất kỳ vật thể nào có chiều cao >= 20px, rõ ràng ở tiền cảnh hoặc trung cảnh. |
+|`other` |Phương tiện đặc thù Xe thô sơ tự chế, xe kéo súc vật (xe bò kéo), xe công trình (máy xúc, xe lu). Tốc độ cực chậm hoặc hình dáng phi tiêu chuẩn, cần cảnh báo giảm tốc từ xa. | |three_wheeler |
+| `bicycle`| Xe đạp thông thường, xe đạp điện, xe đạp thể thao (bao gồm cả người lái). Tốc độ thấp, dễ mất thăng bằng, quỹ đạo di chuyển kém ổn định.| | motobike|
 
-* **Xử lý đối tượng ngoài Taxonomy**: Xe đạp (`bicycle`), xe xích lô đạp chân, xe súc vật kéo (xe bò, xe ngựa), xe đẩy tay: **Không tạo lớp riêng, không ép vào `motorcycle` hay `car`**. Bắt buộc gán 01 box `person` cho người điều khiển/người đẩy; bỏ qua phần khung xe đạp/thùng xe hoặc đưa vào `ignore_region` nếu nằm trong cụm ùn tắc dày đặc (xem quy tắc R-05, R-15).
+
 
 ---
 
