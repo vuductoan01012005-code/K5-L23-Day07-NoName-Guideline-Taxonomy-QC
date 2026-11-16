@@ -1,0 +1,58 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["version", "ignore_class", "classes", "attributes", "rules"],
+  "additionalProperties": false,
+  "properties": {
+    "version": {"type": "string", "minLength": 1},
+    "ignore_class": {"type": "string", "minLength": 1},
+    "classes": {
+      "type": "array", "minItems": 2,
+      "items": {
+        "type": "object",
+        "required": ["name", "definition"],
+        "additionalProperties": false,
+        "properties": {
+          "name": {"type": "string", "pattern": "^[a-z][a-z0-9_]*$"},
+          "definition": {"type": "string", "minLength": 1}
+        }
+      }
+    },
+    "attributes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "type", "values", "default"],
+        "additionalProperties": false,
+        "properties": {
+          "name": {"type": "string", "pattern": "^[a-z][a-z0-9_]*$"},
+          "type": {"enum": ["select", "checkbox"]},
+          "values": {"type": "array", "uniqueItems": true, "items": {"type": "string", "minLength": 1}},
+          "default": {"type": "string"}
+        },
+        "allOf": [
+          {
+            "if": {"properties": {"type": {"const": "select"}}},
+            "then": {"properties": {"values": {"minItems": 1}}},
+            "else": {"properties": {"values": {"maxItems": 0}, "default": {"enum": ["true", "false"]}}}
+          }
+        ]
+      }
+    },
+    "rules": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["min_box_height_px", "iou_thr_large", "iou_thr_small", "large_px", "iaa_iou", "iaa_class", "error_rate_img_max", "match_iou"],
+      "properties": {
+        "min_box_height_px": {"const": 20},
+        "iou_thr_large": {"const": 0.85},
+        "iou_thr_small": {"const": 0.7},
+        "large_px": {"const": 50},
+        "iaa_iou": {"const": 0.85},
+        "iaa_class": {"const": 0.95},
+        "error_rate_img_max": {"const": 0.02},
+        "match_iou": {"const": 0.5}
+      }
+    }
+  }
+}
