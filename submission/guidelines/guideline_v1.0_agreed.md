@@ -29,9 +29,9 @@ Với mỗi người hoặc phương tiện nhìn thấy được trên ảnh, n
 
 ## 2. Định nghĩa Lớp (Classes) và Thuộc tính (Attributes)
 
-### 2.1. Danh sách Lớp (8 lớp chuẩn)
+### 2.1. Danh sách Lớp (10 lớp chuẩn theo taxonomy v1.0)
 
-Gồm 6 lớp gốc của bài lab (`car`, `truck`, `van`, `motorcycle`, `person`, `ignore_region`) và 2 lớp mở rộng đã được nhóm thống nhất đưa vào đặc tả (`bus`, `three_wheeler`).
+Gồm 6 lớp gốc của bài lab (`car`, `truck`, `van`, `motorcycle`, `person`, `ignore_region`) và 4 lớp mở rộng đã được nhóm thống nhất đưa vào đặc tả (`bus`, `three_wheeler`, `bicycle`, `other`).
 
 | Lớp (`name`) | Định nghĩa cốt lõi (một câu) | Ví dụ bao gồm | Phản ví dụ / Dễ nhầm lẫn (KHÔNG gán) |
 |---|---|---|---|
@@ -43,8 +43,8 @@ Gồm 6 lớp gốc của bài lab (`car`, `truck`, `van`, `motorcycle`, `person
 | `three_wheeler` | Phương tiện ba bánh có động cơ dùng để chở người hoặc chở hàng hóa. | Xe tuk-tuk chở khách (`img_004`, `img_016`), xe lam, auto rickshaw, xe ba gác máy chở hàng (`img_035`). | Xe máy 2 bánh kéo xe cải tiến phía sau, xe xích lô đạp chân (`img_039`). |
 | `person` | Con người còn sống ở mọi tư thế trong không gian giao thông đường phố. | Người đi bộ, người lái và người ngồi sau xe máy (`img_001`), người đạp xe/xích lô, tài xế trên xe hở, người đứng/ngồi trên vỉa hè. | Tượng người bằng đồng/đá (`img_011`, `img_017`), ma-nơ-canh (`img_033`), poster/biển quảng cáo in hình người (`img_018`), hình người phản chiếu qua gương (`img_020`). |
 | `ignore_region` | Vùng không gian chứa cụm vật thể quá nhỏ (< 20px ở hậu cảnh), đám đông dày đặc hoặc cụm xe mờ không thể phân tách biên chuẩn xác. | Đám đông dày đặc ở hậu cảnh quảng trường (`img_011`), hàng loạt xe đỗ mờ ảo ở đường chân trời (`img_003`). | Bất kỳ vật thể nào có chiều cao >= 20px, rõ ràng ở tiền cảnh hoặc trung cảnh. |
-|`other` |Phương tiện đặc thù Xe thô sơ tự chế, xe kéo súc vật (xe bò kéo), xe công trình (máy xúc, xe lu). Tốc độ cực chậm hoặc hình dáng phi tiêu chuẩn, cần cảnh báo giảm tốc từ xa. | |three_wheeler |
-| `bicycle`| Xe đạp thông thường, xe đạp điện, xe đạp thể thao (bao gồm cả người lái). Tốc độ thấp, dễ mất thăng bằng, quỹ đạo di chuyển kém ổn định.| | motobike|
+| `bicycle` | Xe đạp thông thường, xe đạp điện, xe đạp thể thao, chỉ tính thân xe (người điều khiển gán `person` riêng). | Xe đạp mini, xe đạp thể thao, xe đạp cào cào (`img_006`). | Xe máy gắn động cơ cơ giới (`motorcycle`), xe 3 bánh (`three_wheeler`). |
+| `other` | Phương tiện đặc thù, xe thô sơ tự chế, xe kéo súc vật (xe bò kéo), xe xích lô chở khách, xe công trình. | Xe xích lô du lịch (`img_006`, `img_009`, `img_023`, `img_034`, `img_039`), xe kéo tự chế, xe bò. | Xe ô tô con (`car`), xe tải (`truck`), xe van (`van`). |
 
 
 
@@ -110,7 +110,7 @@ Bảng tổng hợp các tình huống biên thực tế trên 40 ảnh kèm mã
 | **R-02** | Xe tải chuyên dụng chở nhiều ô tô con trên sàn. | Gán 01 box `truck` bao xe tải sàn; gán thêm từng box `car` riêng cho mỗi ô tô con trên sàn. | Mô hình xe tự lái cần nhận diện ô tô con ở mọi vị trí không gian để tránh va chạm tầm cao. | `img_002.jpg` |
 | **R-03** | Tượng người, tượng xe, ma-nơ-canh, poster, xe đồ chơi/mô hình. | **Tuyệt đối KHÔNG gán box**. Xuất ảnh với 0 annotation nếu không có vật thật. | Vật thể tĩnh, không di chuyển; gán nhãn sẽ gây cảnh báo giả (phantom braking). | `img_011.jpg`, `img_017.jpg`, `img_018.jpg`, `img_027.jpg`, `img_033.jpg`, `img_038.jpg` |
 | **R-04** | Hình ảnh phản chiếu qua gương chiếu hậu hoặc kính tòa nhà. | **Tuyệt đối KHÔNG gán box**, không tạo `ignore_region` cho gương. | Hình ảnh phản chiếu không phải thực thể vật lý trên làn xe chạy. | `img_020.jpg` |
-| **R-05** | Người đi xe đạp, xe xích lô đạp chân. | Chỉ gán 01 box `person` cho người đạp/đẩy; KHÔNG gán box cho khung xe đạp/xích lô. | `bicycle` không có trong taxonomy của lab; người đi xe đạp vẫn là người tham gia giao thông. | `img_006.jpg`, `img_039.jpg` |
+| **R-05** | Người đi xe đạp, xe xích lô đạp chân. | Gán 01 box `person` cho người điều khiển; gán 01 box `bicycle` cho thân xe đạp (với xe đạp thông thường) hoặc gán 01 box `other` cho thân xe xích lô. Hai box chồng lấn tự nhiên tương tự xe máy. | Phù hợp với taxonomy 10 lớp (`bicycle`, `other`, `person`). | `img_006.jpg`, `img_009.jpg`, `img_023.jpg`, `img_034.jpg`, `img_039.jpg` |
 | **R-06** | Xe tuk-tuk 3 bánh, xe lam, xe ba gác máy chở hàng. | Gán nhãn `three_wheeler`. Box ôm thân xe và bánh xe. | Hình thái và động học 3 bánh khác biệt rõ rệt so với xe 2 bánh `motorcycle`. | `img_004.jpg`, `img_016.jpg`, `img_035.jpg` |
 | **R-07** | Xe máy hoặc xe ba bánh chở hàng cồng kềnh. | Giữ nguyên lớp phương tiện, box bao trùm cả phần hàng chằng cố định; nếu hàng quá khổ nhô cao thì tick `can_review = true`. | Hàng hóa làm thay đổi kích thước chiếm làn thực tế của phương tiện. | `img_029.jpg`, `img_035.jpg` |
 | **R-08** | Xe mô tô có thùng phụ gắn bên cạnh (sidecar). | 01 box `motorcycle` bao trọn cả xe và thùng phụ; người lái và người trong thùng mỗi người 01 box `person`. | Thùng phụ là một phần kết cấu liền của phương tiện cơ giới. | `img_022.jpg` |
@@ -153,7 +153,7 @@ Bảng tổng hợp các tình huống biên thực tế trên 40 ảnh kèm mã
 | Phiên bản | Ngày | Nội dung thay đổi chính | Căn cứ & Lý do |
 |---|---|---|---|
 | `v0` | 2026-11-16 | Bản khởi đầu của ban giảng huấn (sơ lược 5 lớp, thiếu quy tắc ca khó, thuộc tính định tính). | — |
-| `v1.0` | 2026-11-16 | **Bản thống nhất của nhóm**: Bổ sung 2 lớp `bus`, `three_wheeler`; định lượng 4 mức `occluded_level`; chốt 17 quy tắc ca khó gắn mã `R-01` đến `R-17`; giải quyết toàn bộ 13 điểm mâu thuẫn giữa 5 bản cá nhân. | Tổng hợp và đối chiếu từ 5 bản cá nhân 995, 996, 997, 998, 999. |
+| `v1.0` | 2026-11-16 | **Bản thống nhất của nhóm**: Bổ sung 4 lớp `bus`, `three_wheeler`, `bicycle`, `other`; định lượng 4 mức `occluded_level`; chốt 17 quy tắc ca khó gắn mã `R-01` đến `R-17`; giải quyết toàn bộ 13 điểm mâu thuẫn giữa 5 bản cá nhân. | Tổng hợp và đối chiếu từ 5 bản cá nhân 995, 996, 997, 998, 999. |
 
 ---
 
@@ -161,8 +161,8 @@ Bảng tổng hợp các tình huống biên thực tế trên 40 ảnh kèm mã
 
 | # | Vấn đề tranh luận | Bản 995 | Bản 996 | Bản 997 (Bạn) | Bản 998 | Bản 999 | **Quyết định chốt cho v1.0** |
 |---|---|---|---|---|---|---|---|
-| 1 | **Danh sách lớp** | 7 lớp | 6 lớp gốc | 6 lớp + `bus`, `tuk_tuk` | 10 lớp | 6 lớp gốc | **8 lớp**: 6 lớp gốc + `bus` + `three_wheeler` |
-| 2 | **Lớp xe đạp (`bicycle`)** | Có | Không | Không | Có | Không | **Không tạo lớp**; chỉ gán `person` người lái (R-05) |
+| 1 | **Danh sách lớp** | 7 lớp | 6 lớp gốc | 6 lớp + `bus`, `tuk_tuk` | 10 lớp | 6 lớp gốc | **10 lớp**: 6 lớp gốc + `bus` + `three_wheeler` + `bicycle` + `other` |
+| 2 | **Lớp xe đạp (`bicycle`)** | Có | Không | Không | Có | Không | **Có lớp `bicycle`** (chỉ thân xe, người đạp gán `person` riêng, R-05) |
 | 3 | **Tên lớp xe máy** | `motobike` | `motorcycle` | `motorcycle` | `motorcycle` | `motorcycle` | **`motorcycle`** (theo chuẩn COCO/CVAT) |
 | 4 | **Người lái và xe máy** | Gộp 1 box | Tách riêng | Tách riêng | Gộp 1 box | Tách riêng | **Tách 2 box riêng** (`person` và `motorcycle`) (R-01) |
 | 5 | **Box phần thấy vs ngoại suy** | Phần thấy | Phần thấy | Phần thấy | Ngoại suy (amodal) | Phần thấy | **Chỉ bao phần nhìn thấy (Tight Visible Box)** |
