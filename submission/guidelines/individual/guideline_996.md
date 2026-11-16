@@ -30,7 +30,7 @@ Mục tiêu là xác định chính xác vị trí, phân loại người và c�
 Sử dụng 6 lớp theo taxonomy ban đầu. Mỗi đối tượng được gán một lớp phù hợp nhất với đặc điểm nhận dạng.
 
 | Lớp (Class) | Định nghĩa | Ví dụ | Trường hợp không thuộc lớp |
-|---|---|---|---|
+|---|---|---|---| 
 | `car` | Ô tô con dùng chủ yếu để chở người. | Sedan, SUV, hatchback, MPV, xe bán tải cá nhân. | Xe tải lớn, xe van chuyên dụng. |
 | `truck` | Phương tiện cơ giới chuyên chở hàng hóa, có kết cấu thùng hoặc bộ phận chuyên dụng. | Xe tải thùng, xe ben, xe đầu kéo, xe chở hàng. | Ô tô con, xe van nhỏ. |
 | `van` | Phương tiện có khoang chở hàng hoặc chở khách liền với cabin, thường có kích thước nhỏ hơn xe tải. | Minivan, xe giao hàng kín thùng, xe van chở khách. | SUV, xe tải thùng rời. |
