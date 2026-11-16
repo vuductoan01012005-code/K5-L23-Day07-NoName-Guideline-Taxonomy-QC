@@ -1,7 +1,7 @@
 # Thông tin nhóm
 
 - Tên nhóm: NoName
-- Mã thành viên (ba chữ số):101, 102, 103, 104, 105
+- Mã thành viên (ba chữ số): 995, 996, 997, 998, 999
 - Người điều phối: Vũ Đức Toàn
 - Người review bản cuối: Nguyễn Văn Hùng
 - Commit chốt bài (điền ở kênh nộp sau khi commit): NGuyễn Thanh Sơn
