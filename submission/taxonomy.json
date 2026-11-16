@@ -8,6 +8,8 @@
     {"name": "bus", "definition": "Xe buýt công cộng, xe khách liên tỉnh từ 16 chỗ trở lên."},
     {"name": "motorcycle", "definition": "Xe hai bánh gắn động cơ xăng hoặc điện (chỉ tính thân xe)."},
     {"name": "three_wheeler", "definition": "Phương tiện ba bánh có động cơ: tuk-tuk, xe lam, xe ba gác máy."},
+    {"name": "bicycle", "definition": "Xe đạp thông thường, xe đạp điện, xe đạp thể thao."},
+    {"name": "other", "definition": "Phương tiện đặc thù, xe thô sơ tự chế, xe súc vật kéo, xe công trình."},
     {"name": "person", "definition": "Con người còn sống ở mọi tư thế trong không gian đường phố."},
     {"name": "ignore_region", "definition": "Vùng bỏ qua (không phải vật): nơi không gán từng vật, bỏ sót ở đây không tính là lỗi."}
   ],
