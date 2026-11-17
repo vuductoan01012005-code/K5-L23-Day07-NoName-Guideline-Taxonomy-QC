@@ -1,0 +1,1447 @@
+case_id,image,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline,nguoi_chot,phieu_sua,kiem_lai,pham_vi
+C001,img_001.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C002,img_001.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C003,img_001.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C004,img_001.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C005,img_001.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,999,calib_round1,Đạt,anh
+C006,img_001.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,995,calib_round1,Đạt,anh
+C007,img_001.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,996,calib_round1,Đạt,anh
+C008,img_001.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,997,calib_round1,Đạt,anh
+C009,img_001.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C010,img_001.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C011,img_001.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C012,img_001.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C013,img_001.jpg,Hiệu chỉnh biên dạng box truck ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,997,calib_round1,Đạt,anh
+C014,img_001.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C015,img_001.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C016,img_001.jpg,Thống nhất lớp truck theo đúng bản chất vật thể trong taxonomy,R-06,v1.1,995,calib_round1,Đạt,anh
+C017,img_001.jpg,Thống nhất lớp truck theo đúng bản chất vật thể trong taxonomy,R-06,v1.1,996,calib_round1,Đạt,anh
+C018,img_001.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C019,img_001.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C020,img_001.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C021,img_001.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C022,img_001.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C023,img_001.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C024,img_001.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C025,img_001.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C026,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,995,calib_round1,Đạt,anh
+C027,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,996,calib_round1,Đạt,anh
+C028,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,997,calib_round1,Đạt,anh
+C029,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,998,calib_round1,Đạt,anh
+C030,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,999,calib_round1,Đạt,anh
+C031,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,995,calib_round1,Đạt,anh
+C032,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,996,calib_round1,Đạt,anh
+C033,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,997,calib_round1,Đạt,anh
+C034,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,998,calib_round1,Đạt,anh
+C035,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,999,calib_round1,Đạt,anh
+C036,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,995,calib_round1,Đạt,anh
+C037,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,996,calib_round1,Đạt,anh
+C038,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,997,calib_round1,Đạt,anh
+C039,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,998,calib_round1,Đạt,anh
+C040,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,999,calib_round1,Đạt,anh
+C041,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,995,calib_round1,Đạt,anh
+C042,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,996,calib_round1,Đạt,anh
+C043,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,997,calib_round1,Đạt,anh
+C044,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,998,calib_round1,Đạt,anh
+C045,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,999,calib_round1,Đạt,anh
+C046,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,995,calib_round1,Đạt,anh
+C047,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,996,calib_round1,Đạt,anh
+C048,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,997,calib_round1,Đạt,anh
+C049,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,998,calib_round1,Đạt,anh
+C050,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,999,calib_round1,Đạt,anh
+C051,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,995,calib_round1,Đạt,anh
+C052,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,996,calib_round1,Đạt,anh
+C053,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,997,calib_round1,Đạt,anh
+C054,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,998,calib_round1,Đạt,anh
+C055,img_002.jpg,Gán 1 truck cho xe tải sàn và các box car độc lập cho ô tô trên sàn,R-02,v1.1,999,calib_round1,Đạt,anh
+C056,img_003.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C057,img_003.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C058,img_003.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C059,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C060,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C061,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C062,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C063,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C064,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C065,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C066,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C067,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C068,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C069,img_003.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C070,img_003.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C071,img_003.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C072,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C073,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C074,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C075,img_003.jpg,Giữ box bicycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,999,calib_round1,Đạt,anh
+C076,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C077,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C078,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C079,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C080,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C081,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C082,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C083,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C084,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C085,img_003.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C086,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C087,img_003.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C088,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C089,img_003.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C090,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C091,img_003.jpg,Giữ box bicycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,995,calib_round1,Đạt,anh
+C092,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C093,img_003.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C094,img_003.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C095,img_003.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C096,img_003.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C097,img_003.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C098,img_003.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C099,img_003.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C100,img_003.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C101,img_003.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C102,img_003.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C103,img_003.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C104,img_003.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C105,img_003.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C106,img_003.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C107,img_003.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C108,img_003.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C109,img_003.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C110,img_003.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C111,img_003.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C112,img_003.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C113,img_003.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C114,img_003.jpg,Hiệu chỉnh biên dạng box car ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,998,calib_round1,Đạt,anh
+C115,img_003.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C116,img_003.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C117,img_003.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C118,img_003.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C119,img_003.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C120,img_003.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C121,img_003.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C122,img_003.jpg,Thống nhất lớp person theo đúng bản chất vật thể trong taxonomy,R-01,v1.1,996,calib_round1,Đạt,anh
+C123,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C124,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C125,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C126,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C127,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C128,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C129,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C130,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C131,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C132,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C133,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C134,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C135,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C136,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C137,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C138,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C139,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C140,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C141,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C142,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C143,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C144,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C145,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C146,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C147,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C148,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C149,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C150,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C151,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C152,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C153,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C154,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C155,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C156,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C157,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C158,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C159,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C160,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C161,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C162,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C163,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C164,img_003.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C165,img_004.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,999,calib_round1,Đạt,anh
+C166,img_004.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,995,calib_round1,Đạt,anh
+C167,img_004.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,996,calib_round1,Đạt,anh
+C168,img_004.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,997,calib_round1,Đạt,anh
+C169,img_004.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,998,calib_round1,Đạt,anh
+C170,img_004.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,999,calib_round1,Đạt,anh
+C171,img_004.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,995,calib_round1,Đạt,anh
+C172,img_004.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,996,calib_round1,Đạt,anh
+C173,img_004.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,997,calib_round1,Đạt,anh
+C174,img_004.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,998,calib_round1,Đạt,anh
+C175,img_004.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,999,calib_round1,Đạt,anh
+C176,img_004.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,995,calib_round1,Đạt,anh
+C177,img_004.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,996,calib_round1,Đạt,anh
+C178,img_004.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,997,calib_round1,Đạt,anh
+C179,img_004.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,998,calib_round1,Đạt,anh
+C180,img_004.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,999,calib_round1,Đạt,anh
+C181,img_005.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C182,img_005.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C183,img_005.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C184,img_005.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C185,img_005.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C186,img_005.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C187,img_005.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C188,img_005.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C189,img_005.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C190,img_005.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C191,img_005.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C192,img_005.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C193,img_005.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C194,img_005.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C195,img_005.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,999,calib_round1,Đạt,anh
+C196,img_005.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,995,calib_round1,Đạt,anh
+C197,img_005.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,996,calib_round1,Đạt,anh
+C198,img_005.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,997,calib_round1,Đạt,anh
+C199,img_005.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,998,calib_round1,Đạt,anh
+C200,img_005.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,999,calib_round1,Đạt,anh
+C201,img_005.jpg,Hiệu chỉnh biên dạng box car ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,995,calib_round1,Đạt,anh
+C202,img_005.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C203,img_005.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C204,img_005.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C205,img_005.jpg,Hiệu chỉnh biên dạng box car ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,999,calib_round1,Đạt,anh
+C206,img_005.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C207,img_005.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C208,img_005.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C209,img_005.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C210,img_005.jpg,Thống nhất lớp car theo đúng bản chất vật thể trong taxonomy,R-06,v1.1,999,calib_round1,Đạt,anh
+C211,img_005.jpg,Thống nhất lớp van theo đúng bản chất vật thể trong taxonomy,R-06,v1.1,995,calib_round1,Đạt,anh
+C212,img_005.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C213,img_005.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C214,img_005.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C215,img_005.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C216,img_005.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C217,img_005.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C218,img_005.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C219,img_005.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C220,img_005.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C221,img_005.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C222,img_005.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C223,img_005.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C224,img_005.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C225,img_005.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C226,img_005.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C227,img_005.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C228,img_005.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C229,img_005.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C230,img_005.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C231,img_005.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C232,img_005.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C233,img_005.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C234,img_006.jpg,Giữ box bicycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,998,calib_round1,Đạt,anh
+C235,img_006.jpg,Giữ box bicycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,999,calib_round1,Đạt,anh
+C236,img_006.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C237,img_006.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C238,img_006.jpg,Giữ box bicycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,997,calib_round1,Đạt,anh
+C239,img_006.jpg,Giữ box bus nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,998,calib_round1,Đạt,anh
+C240,img_006.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C241,img_006.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C242,img_006.jpg,Giữ box bicycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,996,calib_round1,Đạt,anh
+C243,img_006.jpg,Giữ box bicycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,997,calib_round1,Đạt,anh
+C244,img_006.jpg,Giữ box bicycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,998,calib_round1,Đạt,anh
+C245,img_006.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C246,img_006.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C247,img_006.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C248,img_006.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C249,img_006.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C250,img_006.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C251,img_006.jpg,Giữ box bicycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,995,calib_round1,Đạt,anh
+C252,img_006.jpg,Giữ box bicycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,996,calib_round1,Đạt,anh
+C253,img_006.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C254,img_006.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C255,img_006.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C256,img_006.jpg,Giữ box bicycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,995,calib_round1,Đạt,anh
+C257,img_006.jpg,Giữ box bus nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,996,calib_round1,Đạt,anh
+C258,img_006.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C259,img_006.jpg,Giữ box bicycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,998,calib_round1,Đạt,anh
+C260,img_006.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C261,img_006.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C262,img_006.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C263,img_006.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C264,img_006.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C265,img_006.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C266,img_006.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C267,img_006.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C268,img_006.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C269,img_006.jpg,Hiệu chỉnh biên dạng box bicycle ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,998,calib_round1,Đạt,anh
+C270,img_006.jpg,Hiệu chỉnh biên dạng box bicycle ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,999,calib_round1,Đạt,anh
+C271,img_006.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C272,img_006.jpg,Hiệu chỉnh biên dạng box bicycle ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,996,calib_round1,Đạt,anh
+C273,img_006.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C274,img_006.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C275,img_006.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C276,img_006.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C277,img_006.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C278,img_006.jpg,Hiệu chỉnh biên dạng box bicycle ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,997,calib_round1,Đạt,anh
+C279,img_006.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C280,img_006.jpg,Hiệu chỉnh biên dạng box car ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,999,calib_round1,Đạt,anh
+C281,img_006.jpg,Hiệu chỉnh biên dạng box bicycle ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,995,calib_round1,Đạt,anh
+C282,img_006.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C283,img_006.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C284,img_006.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C285,img_006.jpg,Hiệu chỉnh biên dạng box bicycle ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,999,calib_round1,Đạt,anh
+C286,img_006.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C287,img_006.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C288,img_006.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C289,img_006.jpg,Hiệu chỉnh biên dạng box car ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,998,calib_round1,Đạt,anh
+C290,img_006.jpg,Hiệu chỉnh biên dạng box bicycle ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,999,calib_round1,Đạt,anh
+C291,img_006.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C292,img_006.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C293,img_006.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C294,img_006.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C295,img_006.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C296,img_006.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C297,img_006.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C298,img_006.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C299,img_006.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C300,img_006.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C301,img_006.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C302,img_006.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C303,img_006.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C304,img_006.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C305,img_006.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C306,img_006.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C307,img_006.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C308,img_006.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C309,img_006.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C310,img_007.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,999,calib_round1,Đạt,anh
+C311,img_007.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,995,calib_round1,Đạt,anh
+C312,img_007.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,996,calib_round1,Đạt,anh
+C313,img_007.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,997,calib_round1,Đạt,anh
+C314,img_007.jpg,Thống nhất lớp car theo đúng bản chất vật thể trong taxonomy,R-06,v1.1,998,calib_round1,Đạt,anh
+C315,img_007.jpg,Thống nhất lớp car theo đúng bản chất vật thể trong taxonomy,R-06,v1.1,999,calib_round1,Đạt,anh
+C316,img_007.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C317,img_007.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C318,img_007.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C319,img_007.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C320,img_007.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C321,img_008.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C322,img_008.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C323,img_008.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C324,img_008.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C325,img_008.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C326,img_008.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C327,img_008.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C328,img_008.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C329,img_008.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C330,img_008.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C331,img_008.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C332,img_008.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C333,img_008.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C334,img_008.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C335,img_008.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C336,img_008.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C337,img_008.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C338,img_008.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C339,img_008.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C340,img_008.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C341,img_008.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C342,img_008.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C343,img_008.jpg,Giữ box truck nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,997,calib_round1,Đạt,anh
+C344,img_008.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C345,img_008.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C346,img_008.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C347,img_008.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C348,img_008.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C349,img_008.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C350,img_008.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C351,img_008.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C352,img_008.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C353,img_008.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C354,img_008.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C355,img_008.jpg,Giữ box truck nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,999,calib_round1,Đạt,anh
+C356,img_008.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C357,img_008.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C358,img_008.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C359,img_008.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C360,img_008.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C361,img_008.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C362,img_008.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C363,img_008.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C364,img_008.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C365,img_008.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C366,img_008.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C367,img_008.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C368,img_008.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C369,img_008.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C370,img_008.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C371,img_008.jpg,Thống nhất lớp car theo đúng bản chất vật thể trong taxonomy,R-06,v1.1,995,calib_round1,Đạt,anh
+C372,img_008.jpg,Thống nhất lớp car theo đúng bản chất vật thể trong taxonomy,R-06,v1.1,996,calib_round1,Đạt,anh
+C373,img_008.jpg,Thống nhất lớp van theo đúng bản chất vật thể trong taxonomy,R-06,v1.1,997,calib_round1,Đạt,anh
+C374,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C375,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C376,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C377,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C378,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C379,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C380,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C381,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C382,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C383,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C384,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C385,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C386,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C387,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C388,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C389,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C390,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C391,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C392,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C393,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C394,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C395,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C396,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C397,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C398,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C399,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C400,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C401,img_008.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C402,img_009.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C403,img_009.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C404,img_009.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C405,img_009.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C406,img_009.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C407,img_009.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C408,img_009.jpg,Giữ box bicycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,997,calib_round1,Đạt,anh
+C409,img_009.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C410,img_009.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C411,img_009.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C412,img_009.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C413,img_009.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C414,img_009.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C415,img_009.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C416,img_009.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C417,img_009.jpg,Giữ box bicycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,996,calib_round1,Đạt,anh
+C418,img_009.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C419,img_009.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C420,img_009.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,999,calib_round1,Đạt,anh
+C421,img_009.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C422,img_009.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C423,img_009.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C424,img_009.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C425,img_009.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C426,img_009.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C427,img_009.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C428,img_009.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C429,img_009.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C430,img_009.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C431,img_009.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C432,img_009.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C433,img_009.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C434,img_010.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C435,img_010.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C436,img_010.jpg,Giữ box bicycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,995,calib_round1,Đạt,anh
+C437,img_010.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C438,img_010.jpg,Giữ box bicycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,997,calib_round1,Đạt,anh
+C439,img_010.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C440,img_010.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C441,img_010.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C442,img_010.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,996,calib_round1,Đạt,anh
+C443,img_010.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C444,img_010.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C445,img_010.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C446,img_010.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C447,img_010.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C448,img_010.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C449,img_010.jpg,Hiệu chỉnh biên dạng box bicycle ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,998,calib_round1,Đạt,anh
+C450,img_010.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C451,img_010.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C452,img_010.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C453,img_010.jpg,Hiệu chỉnh biên dạng box bicycle ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,997,calib_round1,Đạt,anh
+C454,img_010.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C455,img_010.jpg,Thống nhất lớp motorcycle theo đúng bản chất vật thể trong taxonomy,R-01,v1.1,999,calib_round1,Đạt,anh
+C456,img_010.jpg,Thống nhất lớp person theo đúng bản chất vật thể trong taxonomy,R-01,v1.1,995,calib_round1,Đạt,anh
+C457,img_010.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C458,img_010.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C459,img_010.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C460,img_010.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C461,img_010.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C462,img_010.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C463,img_010.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C464,img_010.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C465,img_010.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C466,img_010.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C467,img_010.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C468,img_010.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C469,img_010.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C470,img_010.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C471,img_010.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C472,img_010.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C473,img_011.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,997,calib_round1,Đạt,anh
+C474,img_011.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,998,calib_round1,Đạt,anh
+C475,img_011.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,999,calib_round1,Đạt,anh
+C476,img_011.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,995,calib_round1,Đạt,anh
+C477,img_011.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,996,calib_round1,Đạt,anh
+C478,img_011.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,997,calib_round1,Đạt,anh
+C479,img_011.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,998,calib_round1,Đạt,anh
+C480,img_011.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,999,calib_round1,Đạt,anh
+C481,img_011.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,995,calib_round1,Đạt,anh
+C482,img_011.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,996,calib_round1,Đạt,anh
+C483,img_011.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,997,calib_round1,Đạt,anh
+C484,img_011.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,998,calib_round1,Đạt,anh
+C485,img_011.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,999,calib_round1,Đạt,anh
+C486,img_011.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,995,calib_round1,Đạt,anh
+C487,img_011.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,996,calib_round1,Đạt,anh
+C488,img_011.jpg,Giữ box three_wheeler nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,997,calib_round1,Đạt,anh
+C489,img_011.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C490,img_011.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C491,img_011.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C492,img_011.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C493,img_011.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C494,img_011.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C495,img_011.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C496,img_011.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C497,img_011.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C498,img_011.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C499,img_011.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C500,img_011.jpg,Giữ box three_wheeler nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,999,calib_round1,Đạt,anh
+C501,img_011.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C502,img_011.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C503,img_011.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C504,img_011.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C505,img_011.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C506,img_011.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C507,img_011.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C508,img_011.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C509,img_011.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,998,calib_round1,Đạt,anh
+C510,img_011.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C511,img_011.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C512,img_011.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C513,img_011.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C514,img_011.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C515,img_011.jpg,Hiệu chỉnh biên dạng box car ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,999,calib_round1,Đạt,anh
+C516,img_011.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C517,img_011.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C518,img_011.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C519,img_011.jpg,Thống nhất lớp van theo đúng bản chất vật thể trong taxonomy,R-06,v1.1,998,calib_round1,Đạt,anh
+C520,img_011.jpg,Thống nhất lớp van theo đúng bản chất vật thể trong taxonomy,R-06,v1.1,999,calib_round1,Đạt,anh
+C521,img_011.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C522,img_011.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C523,img_011.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C524,img_011.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C525,img_011.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C526,img_011.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C527,img_011.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C528,img_011.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C529,img_012.jpg,Giữ box truck nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,998,calib_round1,Đạt,anh
+C530,img_012.jpg,Giữ box truck nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,999,calib_round1,Đạt,anh
+C531,img_012.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,995,calib_round1,Đạt,anh
+C532,img_012.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,996,calib_round1,Đạt,anh
+C533,img_012.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,997,calib_round1,Đạt,anh
+C534,img_012.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C535,img_012.jpg,Hiệu chỉnh biên dạng box truck ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,999,calib_round1,Đạt,anh
+C536,img_012.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C537,img_012.jpg,Hiệu chỉnh biên dạng box car ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,996,calib_round1,Đạt,anh
+C538,img_012.jpg,Thống nhất lớp truck theo đúng bản chất vật thể trong taxonomy,R-06,v1.1,997,calib_round1,Đạt,anh
+C539,img_012.jpg,Thống nhất lớp truck theo đúng bản chất vật thể trong taxonomy,R-06,v1.1,998,calib_round1,Đạt,anh
+C540,img_012.jpg,Thống nhất lớp person theo đúng bản chất vật thể trong taxonomy,R-01,v1.1,999,calib_round1,Đạt,anh
+C541,img_012.jpg,Thống nhất lớp truck theo đúng bản chất vật thể trong taxonomy,R-06,v1.1,995,calib_round1,Đạt,anh
+C542,img_012.jpg,Thống nhất lớp person theo đúng bản chất vật thể trong taxonomy,R-01,v1.1,996,calib_round1,Đạt,anh
+C543,img_012.jpg,Thống nhất lớp car theo đúng bản chất vật thể trong taxonomy,R-06,v1.1,997,calib_round1,Đạt,anh
+C544,img_012.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C545,img_012.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C546,img_012.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C547,img_012.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C548,img_012.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C549,img_012.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C550,img_012.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C551,img_012.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C552,img_012.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C553,img_013.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,997,calib_round1,Đạt,anh
+C554,img_013.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,998,calib_round1,Đạt,anh
+C555,img_013.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,999,calib_round1,Đạt,anh
+C556,img_013.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,995,calib_round1,Đạt,anh
+C557,img_013.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,996,calib_round1,Đạt,anh
+C558,img_013.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,997,calib_round1,Đạt,anh
+C559,img_013.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,998,calib_round1,Đạt,anh
+C560,img_013.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,999,calib_round1,Đạt,anh
+C561,img_013.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,995,calib_round1,Đạt,anh
+C562,img_013.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,996,calib_round1,Đạt,anh
+C563,img_013.jpg,Giữ box bus nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,997,calib_round1,Đạt,anh
+C564,img_013.jpg,Giữ box bus nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,998,calib_round1,Đạt,anh
+C565,img_013.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C566,img_013.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C567,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,996,calib_round1,Đạt,lo
+C568,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,997,calib_round1,Đạt,lo
+C569,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,998,calib_round1,Đạt,lo
+C570,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,999,calib_round1,Đạt,lo
+C571,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,995,calib_round1,Đạt,lo
+C572,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,996,calib_round1,Đạt,lo
+C573,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,997,calib_round1,Đạt,lo
+C574,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,998,calib_round1,Đạt,lo
+C575,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,999,calib_round1,Đạt,lo
+C576,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,995,calib_round1,Đạt,lo
+C577,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,996,calib_round1,Đạt,lo
+C578,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,997,calib_round1,Đạt,lo
+C579,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,998,calib_round1,Đạt,lo
+C580,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,999,calib_round1,Đạt,lo
+C581,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,995,calib_round1,Đạt,lo
+C582,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,996,calib_round1,Đạt,lo
+C583,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,997,calib_round1,Đạt,lo
+C584,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,998,calib_round1,Đạt,lo
+C585,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,999,calib_round1,Đạt,lo
+C586,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,995,calib_round1,Đạt,lo
+C587,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,996,calib_round1,Đạt,lo
+C588,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,997,calib_round1,Đạt,lo
+C589,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,998,calib_round1,Đạt,lo
+C590,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,999,calib_round1,Đạt,lo
+C591,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,995,calib_round1,Đạt,lo
+C592,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,996,calib_round1,Đạt,lo
+C593,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,997,calib_round1,Đạt,lo
+C594,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,998,calib_round1,Đạt,lo
+C595,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,999,calib_round1,Đạt,lo
+C596,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,995,calib_round1,Đạt,lo
+C597,img_014.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,996,calib_round1,Đạt,lo
+C598,img_015.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,997,calib_round1,Đạt,lo
+C599,img_015.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,998,calib_round1,Đạt,lo
+C600,img_015.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,999,calib_round1,Đạt,lo
+C601,img_015.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,995,calib_round1,Đạt,lo
+C602,img_015.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,996,calib_round1,Đạt,lo
+C603,img_015.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,997,calib_round1,Đạt,lo
+C604,img_015.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,998,calib_round1,Đạt,lo
+C605,img_015.jpg,"Phương tiện mờ chuyển động bao trọn vệt mờ, hạ can_review=false",R-12,v1.1,999,calib_round1,Đạt,lo
+C606,img_016.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,995,calib_round1,Đạt,anh
+C607,img_016.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,996,calib_round1,Đạt,anh
+C608,img_016.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,997,calib_round1,Đạt,anh
+C609,img_016.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,998,calib_round1,Đạt,anh
+C610,img_016.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,999,calib_round1,Đạt,lo
+C611,img_016.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,995,calib_round1,Đạt,anh
+C612,img_016.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,996,calib_round1,Đạt,anh
+C613,img_016.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,997,calib_round1,Đạt,lo
+C614,img_016.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,998,calib_round1,Đạt,lo
+C615,img_016.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,999,calib_round1,Đạt,anh
+C616,img_016.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,995,calib_round1,Đạt,lo
+C617,img_016.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,996,calib_round1,Đạt,anh
+C618,img_016.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,997,calib_round1,Đạt,lo
+C619,img_016.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,998,calib_round1,Đạt,lo
+C620,img_016.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,999,calib_round1,Đạt,lo
+C621,img_016.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,995,calib_round1,Đạt,lo
+C622,img_016.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,996,calib_round1,Đạt,lo
+C623,img_016.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,997,calib_round1,Đạt,lo
+C624,img_016.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,998,calib_round1,Đạt,lo
+C625,img_016.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,999,calib_round1,Đạt,lo
+C626,img_016.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,995,calib_round1,Đạt,lo
+C627,img_016.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,996,calib_round1,Đạt,anh
+C628,img_016.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,997,calib_round1,Đạt,anh
+C629,img_016.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,998,calib_round1,Đạt,lo
+C630,img_016.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,999,calib_round1,Đạt,anh
+C631,img_016.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,995,calib_round1,Đạt,anh
+C632,img_016.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,996,calib_round1,Đạt,anh
+C633,img_016.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,997,calib_round1,Đạt,lo
+C634,img_016.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,998,calib_round1,Đạt,lo
+C635,img_016.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,999,calib_round1,Đạt,lo
+C636,img_016.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,995,calib_round1,Đạt,anh
+C637,img_016.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,996,calib_round1,Đạt,lo
+C638,img_016.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,997,calib_round1,Đạt,anh
+C639,img_016.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,998,calib_round1,Đạt,lo
+C640,img_016.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,999,calib_round1,Đạt,lo
+C641,img_016.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,995,calib_round1,Đạt,anh
+C642,img_016.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,996,calib_round1,Đạt,lo
+C643,img_016.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,997,calib_round1,Đạt,anh
+C644,img_016.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,998,calib_round1,Đạt,anh
+C645,img_016.jpg,Thống nhất phân loại three_wheeler cho xe tuk-tuk,R-06,v1.1,999,calib_round1,Đạt,anh
+C646,img_018.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,995,calib_round1,Đạt,anh
+C647,img_018.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,996,calib_round1,Đạt,anh
+C648,img_018.jpg,Hiệu chỉnh biên dạng box car ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,997,calib_round1,Đạt,anh
+C649,img_018.jpg,Hiệu chỉnh biên dạng box car ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,998,calib_round1,Đạt,anh
+C650,img_018.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C651,img_018.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C652,img_018.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C653,img_018.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C654,img_018.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C655,img_018.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C656,img_018.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C657,img_018.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C658,img_018.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C659,img_018.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C660,img_018.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C661,img_018.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C662,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,996,calib_round1,Đạt,anh
+C663,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,997,calib_round1,Đạt,anh
+C664,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,998,calib_round1,Đạt,anh
+C665,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,999,calib_round1,Đạt,anh
+C666,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,995,calib_round1,Đạt,anh
+C667,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,996,calib_round1,Đạt,anh
+C668,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,997,calib_round1,Đạt,anh
+C669,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,998,calib_round1,Đạt,anh
+C670,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,999,calib_round1,Đạt,anh
+C671,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,995,calib_round1,Đạt,anh
+C672,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,996,calib_round1,Đạt,anh
+C673,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,997,calib_round1,Đạt,anh
+C674,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,998,calib_round1,Đạt,anh
+C675,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,999,calib_round1,Đạt,anh
+C676,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,995,calib_round1,Đạt,anh
+C677,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,996,calib_round1,Đạt,anh
+C678,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,997,calib_round1,Đạt,anh
+C679,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,998,calib_round1,Đạt,anh
+C680,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,999,calib_round1,Đạt,anh
+C681,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,995,calib_round1,Đạt,anh
+C682,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,996,calib_round1,Đạt,anh
+C683,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,997,calib_round1,Đạt,anh
+C684,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,998,calib_round1,Đạt,anh
+C685,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,999,calib_round1,Đạt,anh
+C686,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,995,calib_round1,Đạt,anh
+C687,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,996,calib_round1,Đạt,anh
+C688,img_019.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,997,calib_round1,Đạt,anh
+C689,img_019.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C690,img_019.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,999,calib_round1,Đạt,anh
+C691,img_019.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C692,img_019.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C693,img_019.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C694,img_019.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C695,img_019.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C696,img_019.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C697,img_019.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C698,img_019.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C699,img_019.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C700,img_019.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C701,img_019.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C702,img_019.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C703,img_019.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C704,img_019.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C705,img_019.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C706,img_019.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C707,img_019.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C708,img_019.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C709,img_019.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,998,calib_round1,Đạt,anh
+C710,img_019.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C711,img_019.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C712,img_019.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C713,img_019.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C714,img_019.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,998,calib_round1,Đạt,anh
+C715,img_019.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,999,calib_round1,Đạt,anh
+C716,img_019.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C717,img_019.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C718,img_019.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C719,img_019.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C720,img_019.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C721,img_019.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C722,img_019.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C723,img_019.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C724,img_019.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C725,img_019.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C726,img_019.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C727,img_019.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C728,img_019.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C729,img_021.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,998,calib_round1,Đạt,anh
+C730,img_021.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,999,calib_round1,Đạt,anh
+C731,img_021.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,995,calib_round1,Đạt,anh
+C732,img_021.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,996,calib_round1,Đạt,anh
+C733,img_021.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,997,calib_round1,Đạt,anh
+C734,img_021.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,998,calib_round1,Đạt,anh
+C735,img_021.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,999,calib_round1,Đạt,anh
+C736,img_021.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C737,img_021.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C738,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C739,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C740,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C741,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C742,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C743,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C744,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C745,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C746,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C747,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C748,img_021.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C749,img_021.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C750,img_021.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C751,img_021.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C752,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C753,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C754,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C755,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C756,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C757,img_021.jpg,Giữ box bus nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,996,calib_round1,Đạt,anh
+C758,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C759,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C760,img_021.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C761,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C762,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C763,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C764,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C765,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C766,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C767,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C768,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C769,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C770,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C771,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C772,img_021.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C773,img_021.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C774,img_021.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C775,img_021.jpg,Giữ box bus nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,999,calib_round1,Đạt,anh
+C776,img_021.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C777,img_021.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C778,img_021.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C779,img_021.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,998,calib_round1,Đạt,anh
+C780,img_021.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,999,calib_round1,Đạt,anh
+C781,img_021.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,995,calib_round1,Đạt,anh
+C782,img_021.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,996,calib_round1,Đạt,anh
+C783,img_021.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,997,calib_round1,Đạt,anh
+C784,img_021.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,998,calib_round1,Đạt,anh
+C785,img_021.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,999,calib_round1,Đạt,anh
+C786,img_021.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,995,calib_round1,Đạt,anh
+C787,img_021.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,996,calib_round1,Đạt,anh
+C788,img_021.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,997,calib_round1,Đạt,anh
+C789,img_021.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,998,calib_round1,Đạt,anh
+C790,img_021.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,999,calib_round1,Đạt,anh
+C791,img_021.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,995,calib_round1,Đạt,anh
+C792,img_021.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,996,calib_round1,Đạt,anh
+C793,img_021.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,997,calib_round1,Đạt,anh
+C794,img_021.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,998,calib_round1,Đạt,anh
+C795,img_021.jpg,Hiệu chỉnh biên dạng box car ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,999,calib_round1,Đạt,anh
+C796,img_021.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C797,img_021.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C798,img_021.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C799,img_021.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C800,img_021.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C801,img_021.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C802,img_021.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C803,img_021.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C804,img_021.jpg,Hiệu chỉnh biên dạng box car ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,998,calib_round1,Đạt,anh
+C805,img_021.jpg,Hiệu chỉnh biên dạng box car ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,999,calib_round1,Đạt,anh
+C806,img_021.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C807,img_021.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C808,img_021.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C809,img_021.jpg,Hiệu chỉnh biên dạng box car ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,998,calib_round1,Đạt,anh
+C810,img_021.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C811,img_021.jpg,Hiệu chỉnh biên dạng box car ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,995,calib_round1,Đạt,anh
+C812,img_021.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C813,img_021.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C814,img_021.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C815,img_021.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C816,img_021.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C817,img_021.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C818,img_021.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C819,img_021.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C820,img_021.jpg,Hiệu chỉnh biên dạng box car ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,999,calib_round1,Đạt,anh
+C821,img_021.jpg,Hiệu chỉnh biên dạng box car ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,995,calib_round1,Đạt,anh
+C822,img_021.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C823,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C824,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C825,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C826,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C827,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C828,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C829,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C830,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C831,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C832,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C833,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C834,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C835,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C836,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C837,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C838,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C839,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C840,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C841,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C842,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C843,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C844,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C845,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C846,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C847,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C848,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C849,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C850,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C851,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C852,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C853,img_021.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C854,img_022.jpg,Xe mô tô sidecar gán 1 box motorcycle bao trùm cả thùng phụ,R-08,v1.1,998,calib_round1,Đạt,anh
+C855,img_022.jpg,Xe mô tô sidecar gán 1 box motorcycle bao trùm cả thùng phụ,R-08,v1.1,999,calib_round1,Đạt,anh
+C856,img_022.jpg,Xe mô tô sidecar gán 1 box motorcycle bao trùm cả thùng phụ,R-08,v1.1,995,calib_round1,Đạt,anh
+C857,img_022.jpg,Xe mô tô sidecar gán 1 box motorcycle bao trùm cả thùng phụ,R-08,v1.1,996,calib_round1,Đạt,anh
+C858,img_022.jpg,Xe mô tô sidecar gán 1 box motorcycle bao trùm cả thùng phụ,R-08,v1.1,997,calib_round1,Đạt,anh
+C859,img_022.jpg,Xe mô tô sidecar gán 1 box motorcycle bao trùm cả thùng phụ,R-08,v1.1,998,calib_round1,Đạt,anh
+C860,img_022.jpg,Xe mô tô sidecar gán 1 box motorcycle bao trùm cả thùng phụ,R-08,v1.1,999,calib_round1,Đạt,anh
+C861,img_022.jpg,Xe mô tô sidecar gán 1 box motorcycle bao trùm cả thùng phụ,R-08,v1.1,995,calib_round1,Đạt,anh
+C862,img_022.jpg,Xe mô tô sidecar gán 1 box motorcycle bao trùm cả thùng phụ,R-08,v1.1,996,calib_round1,Đạt,anh
+C863,img_022.jpg,Xe mô tô sidecar gán 1 box motorcycle bao trùm cả thùng phụ,R-08,v1.1,997,calib_round1,Đạt,anh
+C864,img_022.jpg,Xe mô tô sidecar gán 1 box motorcycle bao trùm cả thùng phụ,R-08,v1.1,998,calib_round1,Đạt,anh
+C865,img_022.jpg,Xe mô tô sidecar gán 1 box motorcycle bao trùm cả thùng phụ,R-08,v1.1,999,calib_round1,Đạt,anh
+C866,img_022.jpg,Xe mô tô sidecar gán 1 box motorcycle bao trùm cả thùng phụ,R-08,v1.1,995,calib_round1,Đạt,anh
+C867,img_023.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,996,calib_round1,Đạt,anh
+C868,img_023.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,997,calib_round1,Đạt,anh
+C869,img_023.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,998,calib_round1,Đạt,anh
+C870,img_023.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,999,calib_round1,Đạt,anh
+C871,img_023.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,995,calib_round1,Đạt,anh
+C872,img_023.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C873,img_023.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C874,img_023.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C875,img_023.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C876,img_023.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,995,calib_round1,Đạt,anh
+C877,img_023.jpg,Giữ box other nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,996,calib_round1,Đạt,anh
+C878,img_023.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,997,calib_round1,Đạt,anh
+C879,img_023.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C880,img_023.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C881,img_023.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C882,img_023.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C883,img_023.jpg,Hiệu chỉnh biên dạng box three_wheeler ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,997,calib_round1,Đạt,anh
+C884,img_023.jpg,Hiệu chỉnh biên dạng box other ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,998,calib_round1,Đạt,anh
+C885,img_023.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C886,img_023.jpg,Thống nhất lớp three_wheeler theo đúng bản chất vật thể trong taxonomy,R-06,v1.1,995,calib_round1,Đạt,anh
+C887,img_023.jpg,Thống nhất lớp three_wheeler theo đúng bản chất vật thể trong taxonomy,R-06,v1.1,996,calib_round1,Đạt,anh
+C888,img_023.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C889,img_023.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C890,img_023.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C891,img_023.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C892,img_023.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C893,img_023.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C894,img_023.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C895,img_023.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C896,img_023.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C897,img_023.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C898,img_023.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C899,img_024.jpg,Không gán car cho thân vỏ xác xe phế liệu trên nóc,R-13,v1.1,998,calib_round1,Đạt,lo
+C900,img_024.jpg,Không gán car cho thân vỏ xác xe phế liệu trên nóc,R-13,v1.1,999,calib_round1,Đạt,lo
+C901,img_024.jpg,Không gán car cho thân vỏ xác xe phế liệu trên nóc,R-13,v1.1,995,calib_round1,Đạt,lo
+C902,img_024.jpg,Không gán car cho thân vỏ xác xe phế liệu trên nóc,R-13,v1.1,996,calib_round1,Đạt,lo
+C903,img_024.jpg,Không gán car cho thân vỏ xác xe phế liệu trên nóc,R-13,v1.1,997,calib_round1,Đạt,lo
+C904,img_024.jpg,Không gán car cho thân vỏ xác xe phế liệu trên nóc,R-13,v1.1,998,calib_round1,Đạt,lo
+C905,img_024.jpg,Không gán car cho thân vỏ xác xe phế liệu trên nóc,R-13,v1.1,999,calib_round1,Đạt,lo
+C906,img_024.jpg,Không gán car cho thân vỏ xác xe phế liệu trên nóc,R-13,v1.1,995,calib_round1,Đạt,lo
+C907,img_024.jpg,Không gán car cho thân vỏ xác xe phế liệu trên nóc,R-13,v1.1,996,calib_round1,Đạt,lo
+C908,img_024.jpg,Không gán car cho thân vỏ xác xe phế liệu trên nóc,R-13,v1.1,997,calib_round1,Đạt,lo
+C909,img_024.jpg,Không gán car cho thân vỏ xác xe phế liệu trên nóc,R-13,v1.1,998,calib_round1,Đạt,lo
+C910,img_024.jpg,Không gán car cho thân vỏ xác xe phế liệu trên nóc,R-13,v1.1,999,calib_round1,Đạt,lo
+C911,img_024.jpg,Không gán car cho thân vỏ xác xe phế liệu trên nóc,R-13,v1.1,995,calib_round1,Đạt,lo
+C912,img_024.jpg,Không gán car cho thân vỏ xác xe phế liệu trên nóc,R-13,v1.1,996,calib_round1,Đạt,lo
+C913,img_024.jpg,Không gán car cho thân vỏ xác xe phế liệu trên nóc,R-13,v1.1,997,calib_round1,Đạt,lo
+C914,img_024.jpg,Không gán car cho thân vỏ xác xe phế liệu trên nóc,R-13,v1.1,998,calib_round1,Đạt,lo
+C915,img_024.jpg,Không gán car cho thân vỏ xác xe phế liệu trên nóc,R-13,v1.1,999,calib_round1,Đạt,lo
+C916,img_025.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,995,calib_round1,Đạt,anh
+C917,img_025.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,996,calib_round1,Đạt,anh
+C918,img_025.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,997,calib_round1,Đạt,anh
+C919,img_025.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,998,calib_round1,Đạt,anh
+C920,img_025.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C921,img_025.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C922,img_025.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C923,img_025.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C924,img_025.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C925,img_025.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,999,calib_round1,Đạt,anh
+C926,img_025.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,995,calib_round1,Đạt,anh
+C927,img_025.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,996,calib_round1,Đạt,anh
+C928,img_025.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C929,img_025.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C930,img_025.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C931,img_025.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,995,calib_round1,Đạt,anh
+C932,img_025.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C933,img_025.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C934,img_025.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C935,img_025.jpg,Hiệu chỉnh biên dạng box car ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,999,calib_round1,Đạt,anh
+C936,img_025.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C937,img_025.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C938,img_025.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C939,img_025.jpg,Hiệu chỉnh biên dạng box van ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,998,calib_round1,Đạt,anh
+C940,img_025.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C941,img_025.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C942,img_025.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C943,img_025.jpg,Hiệu chỉnh biên dạng box car ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,997,calib_round1,Đạt,anh
+C944,img_025.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C945,img_025.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C946,img_025.jpg,Hiệu chỉnh biên dạng box car ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,995,calib_round1,Đạt,anh
+C947,img_025.jpg,Thống nhất lớp van theo đúng bản chất vật thể trong taxonomy,R-06,v1.1,996,calib_round1,Đạt,anh
+C948,img_025.jpg,Thống nhất lớp van theo đúng bản chất vật thể trong taxonomy,R-06,v1.1,997,calib_round1,Đạt,anh
+C949,img_025.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C950,img_025.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C951,img_025.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C952,img_025.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C953,img_025.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C954,img_025.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C955,img_025.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C956,img_025.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C957,img_025.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C958,img_025.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C959,img_025.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C960,img_025.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C961,img_025.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C962,img_025.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C963,img_025.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C964,img_025.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C965,img_025.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C966,img_026.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C967,img_026.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C968,img_026.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C969,img_026.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C970,img_028.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,999,calib_round1,Đạt,anh
+C971,img_028.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,995,calib_round1,Đạt,anh
+C972,img_028.jpg,Hiệu chỉnh biên dạng box car ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,996,calib_round1,Đạt,anh
+C973,img_028.jpg,Thống nhất lớp truck theo đúng bản chất vật thể trong taxonomy,R-06,v1.1,997,calib_round1,Đạt,anh
+C974,img_028.jpg,Thống nhất lớp truck theo đúng bản chất vật thể trong taxonomy,R-06,v1.1,998,calib_round1,Đạt,anh
+C975,img_028.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C976,img_028.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C977,img_028.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C978,img_028.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C979,img_028.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C980,img_029.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,999,calib_round1,Đạt,anh
+C981,img_029.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,995,calib_round1,Đạt,anh
+C982,img_029.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,996,calib_round1,Đạt,anh
+C983,img_029.jpg,Giữ box bicycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,997,calib_round1,Đạt,anh
+C984,img_029.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,998,calib_round1,Đạt,anh
+C985,img_029.jpg,Giữ box bicycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,999,calib_round1,Đạt,anh
+C986,img_029.jpg,Giữ box bicycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,995,calib_round1,Đạt,anh
+C987,img_029.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C988,img_029.jpg,Giữ box bicycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,997,calib_round1,Đạt,anh
+C989,img_029.jpg,Giữ box bicycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,998,calib_round1,Đạt,anh
+C990,img_029.jpg,Giữ box bicycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,999,calib_round1,Đạt,anh
+C991,img_029.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C992,img_029.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,996,calib_round1,Đạt,anh
+C993,img_029.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,997,calib_round1,Đạt,anh
+C994,img_029.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,998,calib_round1,Đạt,anh
+C995,img_029.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,999,calib_round1,Đạt,anh
+C996,img_029.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C997,img_029.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C998,img_029.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C999,img_029.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C1000,img_029.jpg,Hiệu chỉnh biên dạng box bicycle ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,999,calib_round1,Đạt,anh
+C1001,img_029.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C1002,img_029.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C1003,img_029.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C1004,img_029.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C1005,img_029.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C1006,img_029.jpg,Hiệu chỉnh biên dạng box bicycle ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,995,calib_round1,Đạt,anh
+C1007,img_029.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C1008,img_029.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C1009,img_029.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C1010,img_029.jpg,Hiệu chỉnh biên dạng box bicycle ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,999,calib_round1,Đạt,anh
+C1011,img_029.jpg,Thống nhất lớp person theo đúng bản chất vật thể trong taxonomy,R-01,v1.1,995,calib_round1,Đạt,anh
+C1012,img_029.jpg,Thống nhất lớp person theo đúng bản chất vật thể trong taxonomy,R-01,v1.1,996,calib_round1,Đạt,anh
+C1013,img_029.jpg,Thống nhất lớp person theo đúng bản chất vật thể trong taxonomy,R-01,v1.1,997,calib_round1,Đạt,anh
+C1014,img_029.jpg,Thống nhất lớp person theo đúng bản chất vật thể trong taxonomy,R-01,v1.1,998,calib_round1,Đạt,anh
+C1015,img_029.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1016,img_029.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1017,img_029.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1018,img_029.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1019,img_029.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1020,img_029.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1021,img_029.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1022,img_029.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1023,img_029.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1024,img_029.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1025,img_030.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,999,calib_round1,Đạt,anh
+C1026,img_030.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,995,calib_round1,Đạt,anh
+C1027,img_030.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,996,calib_round1,Đạt,anh
+C1028,img_030.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,997,calib_round1,Đạt,anh
+C1029,img_030.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C1030,img_030.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C1031,img_030.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C1032,img_030.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C1033,img_030.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C1034,img_030.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C1035,img_030.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C1036,img_030.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C1037,img_030.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C1038,img_030.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C1039,img_030.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C1040,img_030.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C1041,img_030.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C1042,img_030.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C1043,img_030.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C1044,img_030.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C1045,img_030.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C1046,img_030.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1047,img_030.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1048,img_030.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1049,img_030.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1050,img_030.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1051,img_030.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1052,img_030.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1053,img_030.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1054,img_030.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1055,img_031.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,999,calib_round1,Đạt,anh
+C1056,img_031.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,995,calib_round1,Đạt,anh
+C1057,img_031.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,996,calib_round1,Đạt,anh
+C1058,img_031.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,997,calib_round1,Đạt,anh
+C1059,img_031.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,998,calib_round1,Đạt,anh
+C1060,img_031.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,999,calib_round1,Đạt,anh
+C1061,img_031.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,995,calib_round1,Đạt,anh
+C1062,img_031.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,996,calib_round1,Đạt,anh
+C1063,img_031.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,997,calib_round1,Đạt,anh
+C1064,img_031.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C1065,img_031.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C1066,img_031.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C1067,img_031.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C1068,img_031.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C1069,img_031.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C1070,img_031.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C1071,img_031.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,995,calib_round1,Đạt,anh
+C1072,img_031.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C1073,img_031.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C1074,img_031.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C1075,img_031.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C1076,img_031.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C1077,img_031.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C1078,img_031.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C1079,img_031.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C1080,img_031.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C1081,img_031.jpg,Hiệu chỉnh biên dạng box bus ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,995,calib_round1,Đạt,anh
+C1082,img_031.jpg,Hiệu chỉnh biên dạng box car ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,996,calib_round1,Đạt,anh
+C1083,img_031.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C1084,img_031.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C1085,img_031.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C1086,img_031.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C1087,img_031.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C1088,img_031.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C1089,img_031.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C1090,img_031.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C1091,img_031.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C1092,img_031.jpg,Thống nhất lớp motorcycle theo đúng bản chất vật thể trong taxonomy,R-01,v1.1,996,calib_round1,Đạt,anh
+C1093,img_031.jpg,Thống nhất lớp motorcycle theo đúng bản chất vật thể trong taxonomy,R-01,v1.1,997,calib_round1,Đạt,anh
+C1094,img_031.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1095,img_031.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1096,img_031.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1097,img_031.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1098,img_032.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,997,calib_round1,Đạt,anh
+C1099,img_032.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,998,calib_round1,Đạt,anh
+C1100,img_032.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,999,calib_round1,Đạt,anh
+C1101,img_032.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,995,calib_round1,Đạt,anh
+C1102,img_032.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,996,calib_round1,Đạt,anh
+C1103,img_032.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,997,calib_round1,Đạt,anh
+C1104,img_032.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,998,calib_round1,Đạt,anh
+C1105,img_032.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,999,calib_round1,Đạt,anh
+C1106,img_032.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,995,calib_round1,Đạt,anh
+C1107,img_032.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,996,calib_round1,Đạt,anh
+C1108,img_032.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,997,calib_round1,Đạt,anh
+C1109,img_032.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,998,calib_round1,Đạt,anh
+C1110,img_032.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,999,calib_round1,Đạt,anh
+C1111,img_032.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C1112,img_032.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C1113,img_032.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C1114,img_032.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C1115,img_032.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C1116,img_032.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C1117,img_032.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C1118,img_032.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C1119,img_032.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,998,calib_round1,Đạt,anh
+C1120,img_032.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C1121,img_032.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C1122,img_032.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C1123,img_032.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C1124,img_032.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C1125,img_032.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,999,calib_round1,Đạt,anh
+C1126,img_032.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,995,calib_round1,Đạt,anh
+C1127,img_032.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,996,calib_round1,Đạt,anh
+C1128,img_032.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C1129,img_032.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,998,calib_round1,Đạt,anh
+C1130,img_032.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,999,calib_round1,Đạt,anh
+C1131,img_032.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C1132,img_032.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,996,calib_round1,Đạt,anh
+C1133,img_032.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C1134,img_032.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C1135,img_032.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C1136,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C1137,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C1138,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C1139,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C1140,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C1141,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C1142,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C1143,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C1144,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C1145,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C1146,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C1147,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C1148,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C1149,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C1150,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C1151,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C1152,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C1153,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C1154,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C1155,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C1156,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C1157,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C1158,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C1159,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C1160,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C1161,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C1162,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C1163,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C1164,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C1165,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C1166,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C1167,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C1168,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C1169,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C1170,img_032.jpg,Hiệu chỉnh biên dạng box car ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,999,calib_round1,Đạt,anh
+C1171,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C1172,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C1173,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C1174,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C1175,img_032.jpg,Hiệu chỉnh biên dạng box car ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,999,calib_round1,Đạt,anh
+C1176,img_032.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C1177,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1178,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1179,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1180,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1181,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1182,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1183,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1184,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1185,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1186,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1187,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1188,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1189,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1190,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1191,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1192,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1193,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1194,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1195,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1196,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1197,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1198,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1199,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1200,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1201,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1202,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1203,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1204,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1205,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1206,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1207,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1208,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1209,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1210,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1211,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1212,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1213,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1214,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1215,img_032.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1216,img_034.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,995,calib_round1,Đạt,anh
+C1217,img_034.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,996,calib_round1,Đạt,anh
+C1218,img_034.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,997,calib_round1,Đạt,anh
+C1219,img_034.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,998,calib_round1,Đạt,anh
+C1220,img_034.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,999,calib_round1,Đạt,anh
+C1221,img_034.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C1222,img_034.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C1223,img_034.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C1224,img_034.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C1225,img_034.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C1226,img_034.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C1227,img_034.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C1228,img_034.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C1229,img_034.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C1230,img_034.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C1231,img_034.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C1232,img_034.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C1233,img_034.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C1234,img_034.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C1235,img_034.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C1236,img_034.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C1237,img_034.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C1238,img_034.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C1239,img_034.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C1240,img_034.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C1241,img_034.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C1242,img_034.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C1243,img_034.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C1244,img_034.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C1245,img_034.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C1246,img_034.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C1247,img_034.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1248,img_034.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1249,img_034.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1250,img_034.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1251,img_034.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1252,img_034.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1253,img_034.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1254,img_034.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1255,img_034.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1256,img_034.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1257,img_034.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1258,img_034.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1259,img_034.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1260,img_034.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1261,img_034.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1262,img_034.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1263,img_034.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1264,img_034.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1265,img_034.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1266,img_034.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1267,img_034.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1268,img_034.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1269,img_034.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1270,img_034.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1271,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,995,calib_round1,Đạt,lo
+C1272,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,996,calib_round1,Đạt,lo
+C1273,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,997,calib_round1,Đạt,lo
+C1274,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,998,calib_round1,Đạt,lo
+C1275,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,999,calib_round1,Đạt,lo
+C1276,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,995,calib_round1,Đạt,lo
+C1277,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,996,calib_round1,Đạt,lo
+C1278,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,997,calib_round1,Đạt,lo
+C1279,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,998,calib_round1,Đạt,lo
+C1280,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,999,calib_round1,Đạt,lo
+C1281,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,995,calib_round1,Đạt,lo
+C1282,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,996,calib_round1,Đạt,lo
+C1283,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,997,calib_round1,Đạt,lo
+C1284,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,998,calib_round1,Đạt,lo
+C1285,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,999,calib_round1,Đạt,lo
+C1286,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,995,calib_round1,Đạt,lo
+C1287,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,996,calib_round1,Đạt,lo
+C1288,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,997,calib_round1,Đạt,lo
+C1289,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,998,calib_round1,Đạt,lo
+C1290,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,999,calib_round1,Đạt,lo
+C1291,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,995,calib_round1,Đạt,lo
+C1292,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,996,calib_round1,Đạt,lo
+C1293,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,997,calib_round1,Đạt,lo
+C1294,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,998,calib_round1,Đạt,lo
+C1295,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,999,calib_round1,Đạt,lo
+C1296,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,995,calib_round1,Đạt,lo
+C1297,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,996,calib_round1,Đạt,lo
+C1298,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,997,calib_round1,Đạt,lo
+C1299,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,998,calib_round1,Đạt,lo
+C1300,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,999,calib_round1,Đạt,lo
+C1301,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,995,calib_round1,Đạt,lo
+C1302,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,996,calib_round1,Đạt,lo
+C1303,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,997,calib_round1,Đạt,lo
+C1304,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,998,calib_round1,Đạt,lo
+C1305,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,999,calib_round1,Đạt,lo
+C1306,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,995,calib_round1,Đạt,lo
+C1307,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,996,calib_round1,Đạt,lo
+C1308,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,997,calib_round1,Đạt,lo
+C1309,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,998,calib_round1,Đạt,lo
+C1310,img_035.jpg,"Không bao hàng cồng kềnh quá khổ nhô cao, chỉ ôm khung xe",R-07,v1.1,999,calib_round1,Đạt,lo
+C1311,img_036.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C1312,img_036.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C1313,img_036.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C1314,img_036.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C1315,img_036.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,999,calib_round1,Đạt,anh
+C1316,img_036.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C1317,img_036.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,996,calib_round1,Đạt,anh
+C1318,img_036.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C1319,img_036.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C1320,img_036.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,999,calib_round1,Đạt,anh
+C1321,img_036.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,995,calib_round1,Đạt,anh
+C1322,img_036.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,996,calib_round1,Đạt,anh
+C1323,img_036.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,997,calib_round1,Đạt,anh
+C1324,img_036.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,998,calib_round1,Đạt,anh
+C1325,img_036.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,999,calib_round1,Đạt,anh
+C1326,img_036.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C1327,img_036.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C1328,img_036.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C1329,img_036.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C1330,img_036.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C1331,img_036.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C1332,img_036.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C1333,img_036.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C1334,img_036.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C1335,img_036.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C1336,img_036.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1337,img_036.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1338,img_036.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1339,img_036.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1340,img_036.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1341,img_036.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1342,img_036.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1343,img_036.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1344,img_036.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1345,img_036.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1346,img_037.jpg,Giữ box bus nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,995,calib_round1,Đạt,anh
+C1347,img_037.jpg,Giữ box bus nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,996,calib_round1,Đạt,anh
+C1348,img_037.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,997,calib_round1,Đạt,lo
+C1349,img_037.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,998,calib_round1,Đạt,lo
+C1350,img_037.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,999,calib_round1,Đạt,anh
+C1351,img_037.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,995,calib_round1,Đạt,anh
+C1352,img_037.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,996,calib_round1,Đạt,lo
+C1353,img_037.jpg,Xe bán tải nắp thùng cao thống nhất gán lớp car,R-09,v1.1,997,calib_round1,Đạt,lo
+C1354,img_037.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1355,img_037.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1356,img_037.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1357,img_037.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1358,img_037.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1359,img_037.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1360,img_039.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,999,calib_round1,Đạt,anh
+C1361,img_039.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,995,calib_round1,Đạt,anh
+C1362,img_039.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,996,calib_round1,Đạt,anh
+C1363,img_039.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,997,calib_round1,Đạt,anh
+C1364,img_039.jpg,Giữ box other nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,998,calib_round1,Đạt,anh
+C1365,img_039.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,999,calib_round1,Đạt,anh
+C1366,img_039.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C1367,img_039.jpg,Giữ box bicycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,996,calib_round1,Đạt,anh
+C1368,img_039.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C1369,img_039.jpg,Giữ box other nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,998,calib_round1,Đạt,anh
+C1370,img_039.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,999,calib_round1,Đạt,anh
+C1371,img_039.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,995,calib_round1,Đạt,anh
+C1372,img_039.jpg,Giữ box bicycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,996,calib_round1,Đạt,anh
+C1373,img_039.jpg,Giữ box motorcycle nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,997,calib_round1,Đạt,anh
+C1374,img_039.jpg,Giữ box person nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-01,v1.1,998,calib_round1,Đạt,anh
+C1375,img_039.jpg,Giữ box car nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-02,v1.1,999,calib_round1,Đạt,anh
+C1376,img_039.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C1377,img_039.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C1378,img_039.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C1379,img_039.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C1380,img_039.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C1381,img_039.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C1382,img_039.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C1383,img_039.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C1384,img_039.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C1385,img_039.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C1386,img_039.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C1387,img_039.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C1388,img_039.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C1389,img_039.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C1390,img_039.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,999,calib_round1,Đạt,anh
+C1391,img_039.jpg,Hiệu chỉnh biên dạng box motorcycle ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,995,calib_round1,Đạt,anh
+C1392,img_039.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C1393,img_039.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,997,calib_round1,Đạt,anh
+C1394,img_039.jpg,Hiệu chỉnh biên dạng box car ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,998,calib_round1,Đạt,anh
+C1395,img_039.jpg,Hiệu chỉnh biên dạng box bicycle ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,999,calib_round1,Đạt,anh
+C1396,img_039.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1397,img_039.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1398,img_039.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1399,img_039.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1400,img_039.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1401,img_039.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1402,img_039.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1403,img_039.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1404,img_039.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1405,img_039.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1406,img_039.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1407,img_039.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1408,img_039.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1409,img_039.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1410,img_039.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1411,img_039.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1412,img_039.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1413,img_039.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1414,img_039.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1415,img_039.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1416,img_039.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1417,img_039.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1418,img_039.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1419,img_039.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1420,img_040.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,999,calib_round1,Đạt,anh
+C1421,img_040.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,995,calib_round1,Đạt,anh
+C1422,img_040.jpg,Thống nhất đặt ignore_region cho cụm vật thể quá nhỏ hoặc ùn tắc ở hậu cảnh,R-11,v1.1,996,calib_round1,Đạt,anh
+C1423,img_040.jpg,Giữ box bus nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,997,calib_round1,Đạt,anh
+C1424,img_040.jpg,Giữ box truck nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,998,calib_round1,Đạt,anh
+C1425,img_040.jpg,Giữ box bus nhìn thấy rõ đạt ngưỡng kích thước >= 20px theo đa số,R-11,v1.1,999,calib_round1,Đạt,anh
+C1426,img_040.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,995,calib_round1,Đạt,anh
+C1427,img_040.jpg,"Đối chiếu quy tắc v1.1, thống nhất nhãn và hạ cờ can_review về false",R-01,v1.1,996,calib_round1,Đạt,anh
+C1428,img_040.jpg,Hiệu chỉnh biên dạng box bus ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,997,calib_round1,Đạt,anh
+C1429,img_040.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,998,calib_round1,Đạt,anh
+C1430,img_040.jpg,Hiệu chỉnh biên dạng box three_wheeler ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,999,calib_round1,Đạt,anh
+C1431,img_040.jpg,Hiệu chỉnh biên dạng box bus ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,995,calib_round1,Đạt,anh
+C1432,img_040.jpg,Hiệu chỉnh biên dạng box person ôm sát mép nhìn thấy (tight visible box),R-01,v1.1,996,calib_round1,Đạt,anh
+C1433,img_040.jpg,Hiệu chỉnh biên dạng box three_wheeler ôm sát mép nhìn thấy (tight visible box),R-16,v1.1,997,calib_round1,Đạt,anh
+C1434,img_040.jpg,Thống nhất lớp other theo đúng bản chất vật thể trong taxonomy,R-06,v1.1,998,calib_round1,Đạt,anh
+C1435,img_040.jpg,Thống nhất lớp other theo đúng bản chất vật thể trong taxonomy,R-06,v1.1,999,calib_round1,Đạt,anh
+C1436,img_040.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1437,img_040.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1438,img_040.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1439,img_040.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1440,img_040.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1441,img_040.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh
+C1442,img_040.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,996,calib_round1,Đạt,anh
+C1443,img_040.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,997,calib_round1,Đạt,anh
+C1444,img_040.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,998,calib_round1,Đạt,anh
+C1445,img_040.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,999,calib_round1,Đạt,anh
+C1446,img_040.jpg,Chuẩn hóa occluded_level và truncated theo đúng mức định lượng v1.1,R-14,v1.1,995,calib_round1,Đạt,anh

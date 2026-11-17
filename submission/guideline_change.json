@@ -1,0 +1,4 @@
+{
+  "kind": "semantic",
+  "summary": "Chốt quy tắc biên ôm sát không bao hàng hóa quá khổ (R-07), chuẩn hóa phân loại bán tải nắp cao thành car (R-09), không gán thân vỏ phế liệu trên nóc (R-13), chuẩn hóa xử lý motion blur (R-12), và loại bỏ hoàn toàn cờ can_review trên toàn lô dữ liệu."
+}
