@@ -202,7 +202,7 @@ img_016.jpg,person,4.58,364.83,129.09,125.37,0,no,calibration
 img_016.jpg,three_wheeler,647.83,321.93,311.83,352.56,0,yes,calibration
 img_016.jpg,car,0.13,277.27,324.07,254.72,2,yes,calibration
 img_016.jpg,car,538.51,270.19,421.19,229.62,1,yes,calibration
-img_016.jpg,three_wheeler,0.0,306.08,201.54,356.08,0,yes,calibration
+img_016.jpg,car,0.0,306.08,201.54,356.08,0,yes,calibration
 img_016.jpg,car,422.17,306.45,179.21,119.75,2,no,calibration
 img_016.jpg,motorcycle,323.4,392.55,266.8,175.95,0,no,calibration
 img_016.jpg,person,845.0,400.0,115.0,145.0,2,yes,calibration

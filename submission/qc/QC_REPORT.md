@@ -11,7 +11,7 @@
 
 - Mục đích và giới hạn sử dụng: Đặc tả quy tắc gán nhãn, đo lường độ đồng thuận (IAA) và kiểm soát chất lượng (QC) cho tập dữ liệu 40 ảnh đường phố 2D bounding box phục vụ huấn luyện mô hình xe tự lái / camera giao thông thông minh. Giới hạn sử dụng cho môi trường nghiên cứu và kiểm thử thực hành của Day 07.
 - Nguồn và phép sử dụng dữ liệu: Dữ liệu ảnh thực tế thu thập từ camera giao thông và đường phố công cộng, tuân thủ giấy phép quy định tại data/ATTRIBUTION.csv.
-- Manifest và checksum nhãn cuối: submission/qc/batch_manifest.json — SHA-256 nhãn cuối: 9c11bb35ecbf993382342047096732c1f196e677fe40531785342756db3a1f07 (submission/qc/labels_calibrated.json).
+- Manifest và checksum nhãn cuối: submission/qc/batch_manifest.json — SHA-256 nhãn cuối: 4b1aa2e84c020932b3d555efe9331861827998fab72989ecaf061200d199a750 (submission/qc/labels_calibrated.json).
 - Guideline và taxonomy khi gán / khi bàn giao: Khi gán độc lập dùng Guideline v1.0 và Taxonomy v1.0 (10 lớp: car, truck, van, bus, motorcycle, three_wheeler, bicycle, other, person, ignore_region); khi bàn giao dùng Guideline v1.1 calibrated và Taxonomy v1.0.
 
 ---
